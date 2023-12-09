@@ -3,7 +3,7 @@
     <h2>👋 Hi, I’m @FaisalShahab</h2>
     <p>MBA Finance </p>
     <ul class="interests">
-      <li>👀 Interested in Finance</li>
+      <li>👀 MBA Finance</li>
       <li>🌱 Currently Studying ..</li>
       <li>💞️Looking to collaborate on Consultancy</li>
     </ul>

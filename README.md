@@ -4,10 +4,10 @@
   </div>
   <div class="profile-info">
     <h2>@FaisalShahab</h2>
-    <p>Finance Enthusiast</p>
+    <p>MBA Finance </p>
     <ul class="interests">
       <li>Interested in Finance</li>
-      <li>Currently learning...</li>
+      <li>Currently Studying ..</li>
       <li>Looking to collaborate on Consultancy</li>
     </ul>
   </div>

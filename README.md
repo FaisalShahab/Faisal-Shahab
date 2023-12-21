@@ -4,7 +4,7 @@
     <p>MBA Finance </p>
     <ul class="interests">
       <li>👀 MBA Finance</li>
-      <li>🌱 Currently Studying ..</li>
+      <li>🌱 Currently Studying "Muhammad Ali Jinnah University".</li>
       <li>💞️Looking to collaborate on Consultancy</li>
     </ul>
   </div>
